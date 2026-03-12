@@ -1,0 +1,104 @@
+2026-03-11 23:46:12,837 [INFO] ============================================================
+2026-03-11 23:46:12,837 [INFO] Ireland Job Market Scraper — Pipeline Starting
+2026-03-11 23:46:12,837 [INFO] ============================================================
+2026-03-11 23:46:12,837 [INFO] Scraping Indeed.ie — 'data analyst' in 'Dublin'
+2026-03-11 23:46:13,709 [ERROR] Indeed scrape error on page 0: 403 Client Error: Forbidden for url: https://ie.indeed.com/jobs?q=data+analyst&l=Dublin&start=0
+2026-03-11 23:46:13,726 [INFO] Scraping Indeed.ie — 'data analyst' in 'Ireland'
+2026-03-11 23:46:14,510 [ERROR] Indeed scrape error on page 0: 403 Client Error: Forbidden for url: https://ie.indeed.com/jobs?q=data+analyst&l=Ireland&start=0
+2026-03-11 23:46:14,524 [INFO] Scraping Jobs.ie — 'data analyst'
+2026-03-11 23:46:25,272 [ERROR] Jobs.ie scrape error on page 1: HTTPSConnectionPool(host='www.jobs.ie', port=443): Read timed out. (read timeout=10)
+2026-03-11 23:46:25,274 [INFO] Scraping Indeed.ie — 'data scientist' in 'Dublin'
+2026-03-11 23:46:26,065 [ERROR] Indeed scrape error on page 0: 403 Client Error: Forbidden for url: https://ie.indeed.com/jobs?q=data+scientist&l=Dublin&start=0
+2026-03-11 23:46:26,077 [INFO] Scraping Indeed.ie — 'data scientist' in 'Ireland'
+2026-03-11 23:46:26,855 [ERROR] Indeed scrape error on page 0: 403 Client Error: Forbidden for url: https://ie.indeed.com/jobs?q=data+scientist&l=Ireland&start=0
+2026-03-11 23:46:26,858 [INFO] Scraping Jobs.ie — 'data scientist'
+2026-03-11 23:46:37,635 [ERROR] Jobs.ie scrape error on page 1: HTTPSConnectionPool(host='www.jobs.ie', port=443): Read timed out. (read timeout=10)
+2026-03-11 23:46:37,636 [INFO] Scraping Indeed.ie — 'data engineer' in 'Dublin'
+2026-03-11 23:46:38,422 [ERROR] Indeed scrape error on page 0: 403 Client Error: Forbidden for url: https://ie.indeed.com/jobs?q=data+engineer&l=Dublin&start=0
+2026-03-11 23:46:38,424 [INFO] Scraping Indeed.ie — 'data engineer' in 'Ireland'
+2026-03-11 23:46:39,206 [ERROR] Indeed scrape error on page 0: 403 Client Error: Forbidden for url: https://ie.indeed.com/jobs?q=data+engineer&l=Ireland&start=0
+2026-03-11 23:46:39,212 [INFO] Scraping Jobs.ie — 'data engineer'
+2026-03-11 23:46:49,970 [ERROR] Jobs.ie scrape error on page 1: HTTPSConnectionPool(host='www.jobs.ie', port=443): Read timed out. (read timeout=10)
+2026-03-11 23:46:49,972 [INFO] Scraping Indeed.ie — 'business intelligence' in 'Dublin'
+2026-03-11 23:46:50,772 [ERROR] Indeed scrape error on page 0: 403 Client Error: Forbidden for url: https://ie.indeed.com/jobs?q=business+intelligence&l=Dublin&start=0
+2026-03-11 23:46:50,774 [INFO] Scraping Indeed.ie — 'business intelligence' in 'Ireland'
+2026-03-11 23:46:51,556 [ERROR] Indeed scrape error on page 0: 403 Client Error: Forbidden for url: https://ie.indeed.com/jobs?q=business+intelligence&l=Ireland&start=0
+2026-03-11 23:46:51,568 [INFO] Scraping Jobs.ie — 'business intelligence'
+2026-03-11 23:47:02,329 [ERROR] Jobs.ie scrape error on page 1: HTTPSConnectionPool(host='www.jobs.ie', port=443): Read timed out. (read timeout=10)
+2026-03-11 23:47:02,331 [INFO] Scraping Indeed.ie — 'data analyst internship' in 'Dublin'
+2026-03-11 23:47:03,122 [ERROR] Indeed scrape error on page 0: 403 Client Error: Forbidden for url: https://ie.indeed.com/jobs?q=data+analyst+internship&l=Dublin&start=0
+2026-03-11 23:47:03,124 [INFO] Scraping Indeed.ie — 'data analyst internship' in 'Ireland'
+2026-03-11 23:47:03,907 [ERROR] Indeed scrape error on page 0: 403 Client Error: Forbidden for url: https://ie.indeed.com/jobs?q=data+analyst+internship&l=Ireland&start=0
+2026-03-11 23:47:03,907 [INFO] Scraping Jobs.ie — 'data analyst internship'
+2026-03-11 23:47:14,669 [ERROR] Jobs.ie scrape error on page 1: HTTPSConnectionPool(host='www.jobs.ie', port=443): Read timed out. (read timeout=10)
+2026-03-11 23:47:14,669 [INFO] Scraping Indeed.ie — 'data science internship' in 'Dublin'
+2026-03-11 23:47:15,477 [ERROR] Indeed scrape error on page 0: 403 Client Error: Forbidden for url: https://ie.indeed.com/jobs?q=data+science+internship&l=Dublin&start=0
+2026-03-11 23:47:15,477 [INFO] Scraping Indeed.ie — 'data science internship' in 'Ireland'
+2026-03-11 23:47:16,248 [ERROR] Indeed scrape error on page 0: 403 Client Error: Forbidden for url: https://ie.indeed.com/jobs?q=data+science+internship&l=Ireland&start=0
+2026-03-11 23:47:16,256 [INFO] Scraping Jobs.ie — 'data science internship'
+2026-03-11 23:47:27,032 [ERROR] Jobs.ie scrape error on page 1: HTTPSConnectionPool(host='www.jobs.ie', port=443): Read timed out. (read timeout=10)
+2026-03-11 23:47:27,033 [INFO] Total raw listings collected: 0
+2026-03-11 23:47:27,042 [INFO] Cleaning scraped data...
+2026-03-11 23:58:52,782 [INFO] ============================================================
+2026-03-11 23:58:52,782 [INFO] Ireland Job Market Scraper — Pipeline Starting
+2026-03-11 23:58:52,782 [INFO] ============================================================
+2026-03-11 23:58:52,782 [INFO] --- Scraping: 'data analyst' ---
+2026-03-11 23:58:54,559 [INFO] LinkedIn | 'data analyst' | Page 1 | 60 found
+2026-03-11 23:58:59,637 [INFO] LinkedIn | 'data analyst' | Page 2 | 60 found
+2026-03-11 23:59:04,537 [INFO] LinkedIn | 'data analyst' | Page 3 | 60 found
+2026-03-11 23:59:07,546 [INFO] LinkedIn: 180 listings
+2026-03-11 23:59:23,993 [ERROR] IrishJobs error — 'data analyst' page 1: HTTPSConnectionPool(host='www.irishjobs.ie', port=443): Read timed out. (read timeout=15)
+2026-03-11 23:59:43,486 [ERROR] IrishJobs error — 'data analyst' page 2: HTTPSConnectionPool(host='www.irishjobs.ie', port=443): Read timed out. (read timeout=15)
+2026-03-12 00:00:02,922 [ERROR] IrishJobs error — 'data analyst' page 3: HTTPSConnectionPool(host='www.irishjobs.ie', port=443): Read timed out. (read timeout=15)
+2026-03-12 00:00:05,924 [INFO] IrishJobs: 0 listings
+2026-03-12 00:00:05,925 [INFO] --- Scraping: 'data scientist' ---
+2026-03-12 00:00:07,674 [INFO] LinkedIn | 'data scientist' | Page 1 | 60 found
+2026-03-12 00:00:12,665 [INFO] LinkedIn | 'data scientist' | Page 2 | 60 found
+2026-03-12 00:00:17,642 [INFO] LinkedIn | 'data scientist' | Page 3 | 60 found
+2026-03-12 00:00:20,647 [INFO] LinkedIn: 180 listings
+2026-03-12 00:00:37,088 [ERROR] IrishJobs error — 'data scientist' page 1: HTTPSConnectionPool(host='www.irishjobs.ie', port=443): Read timed out. (read timeout=15)
+2026-03-12 00:00:56,466 [ERROR] IrishJobs error — 'data scientist' page 2: HTTPSConnectionPool(host='www.irishjobs.ie', port=443): Read timed out. (read timeout=15)
+2026-03-12 00:01:16,063 [ERROR] IrishJobs error — 'data scientist' page 3: HTTPSConnectionPool(host='www.irishjobs.ie', port=443): Read timed out. (read timeout=15)
+2026-03-12 00:01:19,067 [INFO] IrishJobs: 0 listings
+2026-03-12 00:01:19,068 [INFO] --- Scraping: 'data engineer' ---
+2026-03-12 00:01:20,778 [INFO] LinkedIn | 'data engineer' | Page 1 | 60 found
+2026-03-12 00:01:25,607 [INFO] LinkedIn | 'data engineer' | Page 2 | 60 found
+2026-03-12 00:01:30,550 [INFO] LinkedIn | 'data engineer' | Page 3 | 60 found
+2026-03-12 00:01:33,556 [INFO] LinkedIn: 180 listings
+2026-03-12 00:01:49,993 [ERROR] IrishJobs error — 'data engineer' page 1: HTTPSConnectionPool(host='www.irishjobs.ie', port=443): Read timed out. (read timeout=15)
+2026-03-12 00:02:09,449 [ERROR] IrishJobs error — 'data engineer' page 2: HTTPSConnectionPool(host='www.irishjobs.ie', port=443): Read timed out. (read timeout=15)
+2026-03-12 00:02:28,844 [ERROR] IrishJobs error — 'data engineer' page 3: HTTPSConnectionPool(host='www.irishjobs.ie', port=443): Read timed out. (read timeout=15)
+2026-03-12 00:02:31,848 [INFO] IrishJobs: 0 listings
+2026-03-12 00:02:31,848 [INFO] --- Scraping: 'business intelligence analyst' ---
+2026-03-12 00:02:33,535 [INFO] LinkedIn | 'business intelligence analyst' | Page 1 | 60 found
+2026-03-12 00:02:38,440 [INFO] LinkedIn | 'business intelligence analyst' | Page 2 | 60 found
+2026-03-12 00:02:43,306 [INFO] LinkedIn | 'business intelligence analyst' | Page 3 | 60 found
+2026-03-12 00:02:46,316 [INFO] LinkedIn: 180 listings
+2026-03-12 00:03:02,706 [ERROR] IrishJobs error — 'business intelligence analyst' page 1: HTTPSConnectionPool(host='www.irishjobs.ie', port=443): Read timed out. (read timeout=15)
+2026-03-12 00:03:22,467 [ERROR] IrishJobs error — 'business intelligence analyst' page 2: HTTPSConnectionPool(host='www.irishjobs.ie', port=443): Read timed out. (read timeout=15)
+2026-03-12 00:03:43,392 [ERROR] IrishJobs error — 'business intelligence analyst' page 3: HTTPSConnectionPool(host='www.irishjobs.ie', port=443): Read timed out. (read timeout=15)
+2026-03-12 00:03:46,393 [INFO] IrishJobs: 0 listings
+2026-03-12 00:03:46,393 [INFO] --- Scraping: 'data analyst internship' ---
+2026-03-12 00:03:48,028 [INFO] LinkedIn | 'data analyst internship' | Page 1 | 27 found
+2026-03-12 00:03:53,168 [INFO] LinkedIn | 'data analyst internship' | Page 2 | 27 found
+2026-03-12 00:03:58,442 [INFO] LinkedIn | 'data analyst internship' | Page 3 | 27 found
+2026-03-12 00:04:01,457 [INFO] LinkedIn: 81 listings
+2026-03-12 00:04:19,491 [ERROR] IrishJobs error — 'data analyst internship' page 1: HTTPSConnectionPool(host='www.irishjobs.ie', port=443): Read timed out. (read timeout=15)
+2026-03-12 00:04:38,976 [ERROR] IrishJobs error — 'data analyst internship' page 2: HTTPSConnectionPool(host='www.irishjobs.ie', port=443): Read timed out. (read timeout=15)
+2026-03-12 00:04:58,447 [ERROR] IrishJobs error — 'data analyst internship' page 3: HTTPSConnectionPool(host='www.irishjobs.ie', port=443): Read timed out. (read timeout=15)
+2026-03-12 00:05:01,450 [INFO] IrishJobs: 0 listings
+2026-03-12 00:05:01,450 [INFO] --- Scraping: 'data science internship' ---
+2026-03-12 00:05:02,865 [INFO] LinkedIn | 'data science internship' | Page 1 | 16 found
+2026-03-12 00:05:07,441 [INFO] LinkedIn | 'data science internship' | Page 2 | 16 found
+2026-03-12 00:05:11,889 [INFO] LinkedIn | 'data science internship' | Page 3 | 16 found
+2026-03-12 00:05:14,893 [INFO] LinkedIn: 48 listings
+2026-03-12 00:05:31,313 [ERROR] IrishJobs error — 'data science internship' page 1: HTTPSConnectionPool(host='www.irishjobs.ie', port=443): Read timed out. (read timeout=15)
+2026-03-12 00:05:50,709 [ERROR] IrishJobs error — 'data science internship' page 2: HTTPSConnectionPool(host='www.irishjobs.ie', port=443): Read timed out. (read timeout=15)
+2026-03-12 00:06:10,117 [ERROR] IrishJobs error — 'data science internship' page 3: HTTPSConnectionPool(host='www.irishjobs.ie', port=443): Read timed out. (read timeout=15)
+2026-03-12 00:06:13,119 [INFO] IrishJobs: 0 listings
+2026-03-12 00:06:13,119 [INFO] Total raw collected: 849
+2026-03-12 00:06:13,126 [INFO] Cleaning scraped data...
+2026-03-12 00:06:13,168 [INFO] Cleaned: 244 rows remaining
+2026-03-12 00:06:13,215 [INFO] Saved 244 records to data/jobs.db
+2026-03-12 00:06:13,229 [INFO] CSV saved to data/processed/jobs_20260312_0006.csv
+2026-03-12 00:06:13,230 [INFO] Pipeline complete — 244 clean listings saved
