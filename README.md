@@ -58,7 +58,6 @@ GitHub Actions (auto-refresh every Monday)
 ![Overview](screenshots/overview.png)
 ![Top Companies](screenshots/Top_hiring.png)
 ![Location](screenshots/location.png)
-![Browse Listings](screenshots/excel-sheet.png)
 
 ---
 
