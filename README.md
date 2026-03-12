@@ -8,7 +8,7 @@
 
 I'm actively looking for data analyst internships in Ireland. So I decided to stop guessing what employers want and start measuring it.
 
-This project scrapes Data Analyst, Data Scientist, Data Engineer and Internship job listings from **Indeed.ie** and **Jobs.ie** every week, cleans and stores the data, runs SQL analysis against it, and serves everything through a live Streamlit dashboard.
+This project scrapes Data Analyst, Data Scientist, Data Engineer and Internship job listings from **Linkedin**  every week, cleans and stores the data, runs SQL analysis against it, and serves everything through a live Streamlit dashboard.
 
 The goal was not just to build a scraper. It was to answer questions that actually matter to someone trying to break into the Irish data job market:
 
@@ -54,6 +54,15 @@ GitHub Actions (auto-refresh every Monday)
 ---
 
 ## What the Dashboard Shows
+## Dashboard Screenshots
+
+![Overview](screenshots/Screenshot_2026-03-12_002307.png)
+![Top Companies](screenshots/Screenshot_2026-03-12_002327.png)
+![Location](screenshots/Screenshot_2026-03-12_002358.png)
+![Browse Listings](screenshots/Screenshot_2026-03-12_002418.png)
+```
+
+---
 
 ### 📊 KPI Overview
 Total listings, unique companies, internship roles, roles with salary listed, sources scraped — all live from the database.
