@@ -53,14 +53,12 @@ GitHub Actions (auto-refresh every Monday)
 
 ---
 
-## What the Dashboard Shows
 ## Dashboard Screenshots
 
 ![Overview](screenshots/Screenshot_2026-03-12_002307.png)
 ![Top Companies](screenshots/Screenshot_2026-03-12_002327.png)
 ![Location](screenshots/Screenshot_2026-03-12_002358.png)
 ![Browse Listings](screenshots/Screenshot_2026-03-12_002418.png)
-```
 
 ---
 
