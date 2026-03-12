@@ -23,7 +23,7 @@ The goal was not just to build a scraper. It was to answer questions that actual
 ## Project Pipeline
 
 ```
-Indeed.ie + Jobs.ie
+linkedin.com
         ↓
 Python Scraper (BeautifulSoup + requests)
         ↓
